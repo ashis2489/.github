@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 Ask a Question
+    url: https://github.com/ashis2489/ashis2489/discussions
+    about: Use GitHub Discussions for questions and general help
+  - name: 📧 Email
+    url: mailto:ashis2489@gmail.com
+    about: For private or security-related matters
